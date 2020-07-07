@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "503843909921",
+    "firebase_url": "https://reactnativepushnotificat-9496e.firebaseio.com",
+    "project_id": "reactnativepushnotificat-9496e",
+    "storage_bucket": "reactnativepushnotificat-9496e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503843909921:android:7d9a3d935594c4229a4e60",
+        "android_client_info": {
+          "package_name": "com.pushnotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503843909921-ukc176v35dou7hn0cvaa5hbmdrit98cb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtsuGYYpq0krL17EIl7rOHPyvz2-L9HAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503843909921-ukc176v35dou7hn0cvaa5hbmdrit98cb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
